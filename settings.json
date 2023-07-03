@@ -7,6 +7,7 @@
     "editor.bracketPairColorization.enabled": true,
     "editor.detectIndentation": false,
     "editor.fontSize": 14,
+    "editor.wordWrap": "on",
     "editor.guides.bracketPairs": true,
     "editor.minimap.enabled": false,
     "editor.multiCursorModifier": "ctrlCmd",
@@ -84,4 +85,7 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "files.autoSave": "afterDelay",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "liveServer.settings.CustomBrowser": "chrome",
 }
